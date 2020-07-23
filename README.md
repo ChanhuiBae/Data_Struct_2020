@@ -27,3 +27,4 @@ This made for study data structure
 - git stash / git stash save “description” : 작업코드 임시저장하고 브랜치 바꾸기
 - git stash pop : 마지막으로 임시저장한 작업코드 가져오기
 - git branch — set-upstream-to=remote_path/branch_name : git pull no tracking info 에러해결
+- 출처 : https://medium.com/@pks2974/%EC%9E%90%EC%A3%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EA%B8%B0%EC%B4%88-git-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%A0%95%EB%A6%AC%ED%95%98%EA%B8%B0-533b3689db81
